@@ -1,0 +1,269 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Responses SYSTEM "responses.dtd">
+
+<Responses>
+  <Response sID="g0cookie">
+    <MCAnswer qID="college">
+      <Answer>Vic</Answer>
+    </MCAnswer>
+    
+    <NumAnswer qID="year">
+      <Answer>3</Answer>
+    </NumAnswer>
+    
+    <MCAnswer qID="courses">
+      <Answer>csc309</Answer>
+      <Answer>csc318</Answer>
+    </MCAnswer>
+    
+    <MCAnswer qID="prefs">
+      <Answer>recommender systems</Answer>
+      <Answer>human genome</Answer>    
+    </MCAnswer>
+    
+    <TimeAnswer qID="times">
+      <Answer>yes</Answer>
+      <Answer>no</Answer>
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+    </TimeAnswer>
+  </Response>
+  <Response sID="g0ernie">
+    <MCAnswer qID="college">
+      <Answer>New</Answer>
+    </MCAnswer>
+      
+    <NumAnswer qID="year">
+      <Answer>3</Answer>
+    </NumAnswer>
+      
+      <MCAnswer qID="courses">
+      <Answer>csc336/350</Answer>
+    </MCAnswer>
+    
+    <MCAnswer qID="prefs">
+      <Answer>human genome</Answer>
+      <Answer>location-aware apps</Answer>
+    </MCAnswer>
+    
+    <TimeAnswer qID="times">
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+    </TimeAnswer>
+
+  </Response>
+  
+  <Response sID="g0bigbir">
+    <MCAnswer qID="college">
+	<Answer>Vic</Answer>
+    </MCAnswer>
+    
+    <NumAnswer qID="year">
+	<Answer>4</Answer>
+      </NumAnswer>
+    
+    <MCAnswer qID="courses">
+      <Answer>csc318</Answer>
+      <Answer>csc343</Answer>
+    </MCAnswer>
+    
+    <MCAnswer qID="prefs">
+      <Answer>human genome</Answer>
+      <Answer>image processing</Answer>
+    </MCAnswer>
+    
+    <TimeAnswer qID="times">
+      <Answer>no</Answer>
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+      <Answer>no</Answer>
+    </TimeAnswer>
+  
+  </Response>
+  <Response sID="g0dora">
+    <MCAnswer qID="college">
+	<Answer>Innis</Answer>
+    </MCAnswer>
+    
+    <NumAnswer qID="year">
+	<Answer>2</Answer>
+      </NumAnswer>
+    
+    <MCAnswer qID="courses">
+    </MCAnswer>
+    
+    <MCAnswer qID="prefs">
+      <Answer>image processing</Answer>
+      <Answer>encryption</Answer>
+    </MCAnswer>
+    
+    <TimeAnswer qID="times">
+      <Answer>no</Answer>
+      <Answer>no</Answer>
+      <Answer>yes</Answer>
+      <Answer>no</Answer>
+    </TimeAnswer>
+
+  </Response>
+  <Response sID="g0diego">
+    <MCAnswer qID="college">
+	<Answer>Innis</Answer>
+    </MCAnswer>
+    
+    <NumAnswer qID="year">
+	<Answer>4</Answer>
+    </NumAnswer>
+    
+    <MCAnswer qID="courses">
+      <Answer>csc318</Answer>
+    </MCAnswer>
+    
+    <MCAnswer qID="prefs">
+      <Answer>image processing</Answer>
+      <Answer>encryption</Answer>
+    </MCAnswer>
+    
+    <TimeAnswer qID="times">
+      <Answer>no</Answer>
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+    </TimeAnswer>
+  
+  </Response>
+  <Response sID="g0max">
+    <MCAnswer qID="college">
+	<Answer>UC</Answer>
+    </MCAnswer>
+    
+    <NumAnswer qID="year">
+	<Answer>3</Answer>
+    </NumAnswer>
+      
+    <MCAnswer qID="courses">
+      <Answer>csc309</Answer>
+      <Answer>csc343</Answer>
+    </MCAnswer>
+    
+    <MCAnswer qID="prefs">
+      <Answer>human genome</Answer>
+      <Answer>encryption</Answer>
+    </MCAnswer>
+    
+    <TimeAnswer qID="times">
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+      <Answer>no</Answer>
+    </TimeAnswer>
+  
+  </Response>
+  <Response sID="g0ruby">
+    <MCAnswer qID="college">
+      <Answer>Woodsworth</Answer>
+    </MCAnswer>
+    
+    <NumAnswer qID="year">
+      <Answer>4</Answer>
+    </NumAnswer>
+      
+    <MCAnswer qID="courses">
+      <Answer>csc309</Answer>
+      <Answer>csc343</Answer>
+      <Answer>csc318</Answer>
+    </MCAnswer>
+    
+    <MCAnswer qID="prefs">
+      <Answer>human genome</Answer>
+      <Answer>image processing</Answer>
+    </MCAnswer>
+    
+    <TimeAnswer qID="times">
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+      <Answer>no</Answer>
+      <Answer>no</Answer>
+    </TimeAnswer>
+  
+  </Response>
+  <Response sID="g0arthur">
+    <MCAnswer qID="college">
+	<Answer>UC</Answer>
+    </MCAnswer>
+    
+    <NumAnswer qID="year">
+	<Answer>3</Answer>
+      </NumAnswer>
+    
+    <MCAnswer qID="courses">
+      <Answer>csc336/350</Answer>
+      <Answer>csc318</Answer>
+    </MCAnswer>
+    
+    <MCAnswer qID="prefs"> 
+      <Answer>location-aware apps</Answer>
+      <Answer>human genome</Answer>
+    </MCAnswer>
+    
+    <TimeAnswer qID="times">
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+      <Answer>no</Answer>
+    </TimeAnswer>
+    
+  </Response>
+  <Response sID="g0dw">
+    <MCAnswer qID="college">
+	<Answer>Trinity</Answer>
+    </MCAnswer>
+    
+    <NumAnswer qID="year">
+	<Answer>2</Answer>
+    </NumAnswer>
+    
+    <MCAnswer qID="courses">
+      <Answer>csc309</Answer>
+      <Answer>csc343</Answer>
+    </MCAnswer>
+    
+    <MCAnswer qID="prefs"> 
+      <Answer>human genome</Answer>
+      <Answer>location-aware apps</Answer>
+    </MCAnswer>
+    
+    <TimeAnswer qID="times">
+      <Answer>no</Answer>
+      <Answer>yes</Answer>
+      <Answer>yes</Answer>
+      <Answer>no</Answer>
+    </TimeAnswer>
+    
+  </Response>
+  <Response sID="g0franci">
+    <NumAnswer qID="year">
+      <Answer>3</Answer>
+    </NumAnswer>
+  
+    <MCAnswer qID="courses">
+      <Answer>csc343</Answer>
+    </MCAnswer>
+    
+    <MCAnswer qID="prefs"> 
+      <Answer>human genome</Answer>
+      <Answer>encryption</Answer>
+    </MCAnswer>
+    
+    <TimeAnswer qID="times">
+      <Answer>no</Answer>
+      <Answer>yes</Answer>
+      <Answer>no</Answer>
+      <Answer>no</Answer>
+    </TimeAnswer>
+    
+  </Response>
+  
+  <Response sID="g0brain"></Response>
+</Responses>

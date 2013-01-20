@@ -1,0 +1,26 @@
+<!ELEMENT Survey (Title, (MCQuestion|NumQuestion|TimeQuestion)+)>
+<!ATTLIST Survey sID ID #REQUIRED>
+
+<!ELEMENT MCQuestion (QText, Options)>
+<!ATTLIST MCQuestion qID ID #REQUIRED
+		    picks CDATA "1"
+		    optionality (mandatory|optional) #REQUIRED>
+
+<!ELEMENT NumQuestion (QText)>
+<!ATTLIST NumQuestion qID ID #REQUIRED
+		     minValue CDATA #REQUIRED
+		     maxValue CDATA #REQUIRED
+		     optionality (mandatory|optional) #REQUIRED>
+
+<!ELEMENT TimeQuestion (QText, Options, TimeAnswers)>
+<!ATTLIST TimeQuestion qID ID #REQUIRED
+		      optionality (mandatory|optional) #REQUIRED>
+			
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT QText (#PCDATA)>
+
+<!ELEMENT Options (Option, Option, Option*)>
+<!ELEMENT Option (#PCDATA)>
+
+<!ELEMENT TimeAnswers (Answer, Answer, Answer?)>
+<!ELEMENT Answer (#PCDATA)>
