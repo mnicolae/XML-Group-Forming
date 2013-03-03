@@ -1,9 +1,0 @@
-<!ELEMENT Division (Group+)>
-<!ATTLIST Division dID ID #REQUIRED>
-<!ATTLIST Division maximum CDATA #IMPLIED>
-<!ATTLIST Division minimum CDATA #IMPLIED>
-
-<!ELEMENT Group (Student*, Leader, Student*)>
-<!ATTLIST Group gID ID #REQUIRED>
-<!ELEMENT Leader (#PCDATA)>
-<!ELEMENT Student (#PCDATA)>

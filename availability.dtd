@@ -1,3 +1,0 @@
-<!ELEMENT Availability (Group*)>
-<!ELEMENT Group (#PCDATA)>
-<!ATTLIST Group numslots CDATA #REQUIRED>

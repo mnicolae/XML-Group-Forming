@@ -1,4 +1,0 @@
-<!ELEMENT Histogram (Bar*)>
-<!ELEMENT Bar EMPTY>
-<!ATTLIST Bar choice CDATA #REQUIRED>
-<!ATTLIST Bar count CDATA #REQUIRED>
