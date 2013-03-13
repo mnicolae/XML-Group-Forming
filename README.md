@@ -15,5 +15,5 @@ This repository contains the source code for Assignment 4 for CSC 343 Fall 2012.
 
 ## Links
 
-[Assignment handout](https://dl.dropbox.com/u/61875648/A4.pdf)
+[Assignment handout](https://dl.dropbox.com/u/61875648/A4.pdf)  
 [Project page](http://mnicolae.github.com/XML-Group-Forming/)
